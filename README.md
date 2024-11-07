@@ -21,8 +21,13 @@ npm install
 
 ## Project Structure
 -app.js: Main application file containing all routes and logic.
+
 -public/: Directory to hold static files like CSS, JavaScript, and images.
+
 -views/: Contains the EJS template files.
+
 -index.ejs: Displays a list of all files.
+
 -show.ejs: Displays the content of a selected file.
+
 -files/: Directory where all created text files are saved.
