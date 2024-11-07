@@ -1,7 +1,7 @@
 # File Management Application
 This is a simple file management application built with Node.js and Express. It allows you to create and view text files from a web interface.
 
-# Features
+## Features
 View a list of all text files stored in the /files directory.
 View the content of each text file.
 Create new text files with a title and content.
