@@ -6,10 +6,10 @@ View a list of all text files stored in the /files directory.
 View the content of each text file.
 Create new text files with a title and content.
 
-# Prerequisites
+## Prerequisites
 Make sure you have Node.js installed. You can download it from nodejs.org.
 
-# Installation
+## Installation
 - Clone the repository:
 git clone <repository-url>
 
@@ -19,7 +19,7 @@ cd file-management-app
 -Install the required dependencies:
 npm install
 
-# Project Structure
+## Project Structure
 -app.js: Main application file containing all routes and logic.
 -public/: Directory to hold static files like CSS, JavaScript, and images.
 -views/: Contains the EJS template files.
